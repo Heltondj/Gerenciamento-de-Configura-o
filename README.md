@@ -1,2 +1,2 @@
-# Gerenciamento-de-Configura-o
+# Gerenciamento-de-Configuração
 Finalizado calculo de IMC
